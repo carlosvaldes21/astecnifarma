@@ -17,14 +17,14 @@ include ('plantilla.php');
       </div>
         
       <div class="col-12 p-5 col-md-3 cuadro">
-        <a href="">
+        <a href="seguimiento.php">
           <img src="img/proyectos.png" alt="" class="img-fluid rounded">
           <p class="m-0">Revisión de proyectos actuales</p>
         </a>
       </div>
         
       <div class="col-12 p-5 col-md-3 cuadro">
-        <a href="">
+        <a href="inventario.php">
           <img src="img/inventario.png" alt="" class="img-fluid rounded">
           <p class="m-0">Inventario</p>
         </a>
