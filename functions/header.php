@@ -21,28 +21,7 @@ require('functions/connection.php');
 <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.8.2/css/all.css" integrity="sha384-oS3vJWv+0UjzBfQzYUhtDYW+Pj2yciDJxpsK1OYPAYjqT085Qq/1cq5FLXAZQ7Ay" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Pinyon+Script&display=swap" rel="stylesheet">
 <link rel="stylesheet" href="css/estilos.css">
-<link rel="stylesheet" href="css/fullcalendar.min.css">
-<link rel="stylesheet" href="css/bootstrap-clockpicker.css">
-<link href="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.5.0/css/bootstrap4-toggle.min.css" rel="stylesheet">
-
-
-  <!-- Bootstrap core JavaScript -->
-<script src="js/jquery.min.js"></script>
-<script src="js/bootstrap.bundle.min.js"></script>
-<script type="text/javascript" charset="utf8" src="https://cdn.datatables.net/1.10.19/js/jquery.dataTables.js"></script>
-<script src="js/moment.min.js"></script>
-<!--  Full Calendar -->
-<script src="js/fullcalendar.min.js"></script>
-<script src="js/es.js"></script>
-<script src="js/bootstrap-clockpicker.js"></script>
-<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js"></script>
-<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js"></script>
-<script src="js/moment.min.js"></script>
-<script type="text/javascript" src="http://jzaefferer.github.com/jquery-validation/jquery.validate.js"></script>
-<script src="https://cdn.jsdelivr.net/gh/gitbrent/bootstrap4-toggle@3.5.0/js/bootstrap4-toggle.min.js"></script>
-<script src="js/main.js"></script>
-
-
+<script src="https://kit.fontawesome.com/4633de1bd3.js" crossorigin="anonymous"></script>
 </head>
   
 <body>
@@ -62,13 +41,13 @@ require('functions/connection.php');
             </a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Horarios</a>
+            <a class="nav-link" href="checarhorario.php">Horarios</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Revisión de proyectos</a>
+            <a class="nav-link" href="seguimiento.php">Revisión de proyectos</a>
           </li>
           <li class="nav-item">
-            <a class="nav-link" href="#">Inventario</a>
+            <a class="nav-link" href="inventario.php">Inventario</a>
           </li>
           <li class="nav-item">
             <a class="nav-link" href="#">Documentos</a>

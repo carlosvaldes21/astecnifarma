@@ -10,7 +10,7 @@ include ('plantilla.php');
     <div class="row text-center shadow mt-5 pacientes border-bottom-orange ov-scroll">
       
       <div class="col-12 p-5 col-md-3 cuadro">
-        <a href="">
+        <a href="checarhorario.php">
           <img src="img/horario.png" alt="" class="img-fluid rounded">
           <p class="m-0">Checar horario</p>
         </a>
