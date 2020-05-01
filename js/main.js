@@ -18,7 +18,9 @@ var app = new Vue({
       roles:[
           {name:'Alejandro', role:'Reviewer Projects'},
           {name:'Carlos', role:'Programador'},
-          {name:'Kevin', role:'Scrum Master'}
+          {name:'Kevin', role:'Scrum Master'},
+          {name:'Cesar', role:'Tester'},
+          {name:'José', role:'Trello'}
       ],
       inventarios:[
           {idProd:'232435',nombre:'UNIDAD MANEJADORA DE AIRE (UMA)', desc:'Equipo encargado de la inyección de aire libre de partículas al 1% de contaminación, a las áreas de producción de medicamentos orales, algunas características son la potencia en Kw de los serpentines de agua helada y caliente para control de humedad y temperatura del aire, CFM producidos por el motor, y la frecuencia en la que se pondrá el setpoint luego de la calibración inicial',tipo:'Producto', cantidad:'13'},
