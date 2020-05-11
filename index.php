@@ -31,7 +31,7 @@ include ('plantilla.php');
       </div>
         
       <div class="col-12 p-5 col-md-3 cuadro">
-        <a href="">
+        <a href="documentos.php">
           <img src="img/documentos.png" alt="" class="img-fluid rounded">
           <p class="m-0">Documentos</p>
         </a>
