@@ -1,8 +1,8 @@
 <?php
 	$host = 'localhost';
-	$user = 'root';
-	$password = '';
-	$database = 'u982399334_siste';
+	$user = 'u982399334_sistema';
+	$password = '09392181';
+	$database = 'u982399334_sistema';
 
 		$mysqli = new mysqli($host,$user,$password,$database);
 
